@@ -1,0 +1,22 @@
+/*@import "mixins.scss";
+@import "global.scss";
+@import "navbar.scss";
+@import "masthead.scss";
+@import "post.scss";
+@import "contact.scss";
+@import "footer.scss";
+@import "bootstrap-overrides.scss";
+*/
+/* line 12, ../scss/clean-blog.scss */
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* line 15, ../scss/clean-blog.scss */
+.card-header h2 {
+  font-family: "Indie Flower", cursive;
+}
+.container {
+	padding-left: 20px;
+	padding-right: 20px;
+}
